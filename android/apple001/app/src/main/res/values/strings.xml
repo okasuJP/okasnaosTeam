@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">apple001</string>
+    <string name="title">あなたはりんご何個分？</string>
+    <string name="text_hint">体重を入力(kg)</string>
+    <string name="button_text">change</string>
+    <string name="answer_text"></string>
+</resources>
